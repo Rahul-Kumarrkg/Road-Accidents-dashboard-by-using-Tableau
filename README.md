@@ -6,6 +6,7 @@
 
 To analyze road accident data to identify trends, causes, locations, and potential solutions. This dashboard helps traffic authorities and policy makers take data-driven decisions to reduce accidents.
 
+
 ---
 
 ## 📂 Dataset:
@@ -172,3 +173,14 @@ END
 * **Excel / CSV** (as source)
 
 ---
+
+
+## 📍 Project Summary:
+This project focused on developing a dynamic and insightful Tableau dashboard to analyze and visualize road accident data across multiple years. The primary goal was to uncover critical patterns, trends, and risk factors contributing to accidents, helping authorities and planners make informed decisions for improving road safety.
+
+---
+
+## ✅ Outcome:
+The dashboard provided actionable insights to support road safety strategies, such as targeted infrastructure upgrades, time-specific traffic enforcement, vehicle-type awareness campaigns, and data-driven policy formulation.
+
+<img src="Road Accident DashBoard.png" width="1000"/>
